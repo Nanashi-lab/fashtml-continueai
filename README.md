@@ -1,0 +1,1 @@
+This is a git repository for setting up devcointainer with fasthtml and continue AI 
